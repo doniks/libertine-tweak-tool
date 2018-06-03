@@ -1,0 +1,24 @@
+// Shells
+l-c-m exec -c bash
+    This command does not mount any user directories
+    (/home/phablet will not exist) and is best used for
+    making changes to the container's rootfs)
+
+DISPLAY= libertine-launch <containerid (default is vivid)> bash
+    This mounts user directories, but is no different than
+    if you installed something like mate-terminal and ran it.
+    The reason we are passing an empty DISPLAY variable is
+    because libertine-launch will refuse to start if DISPLAY
+    isn't set, even it if doesn't exist.
+
+//Themes:
+
+You can make your applications look great still, you don't have
+to be stuck with the default Raleigh GTK style.
+Download and install LXAppearance in your container and add
+ppa:noobslab/themes then start installing themes. Enjoy!
+The Ubuntu Touch Themes are wonderful and FlatPlat works well
+with the system UI as well.
+
+
+https://paste.ubuntu.com/16475233/

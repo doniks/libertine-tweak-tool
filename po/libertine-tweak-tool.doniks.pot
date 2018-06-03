@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the libertine-tweak-tool.doniks package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: libertine-tweak-tool.doniks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-03 15:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:32 ../qml/Main2.qml:30 libertine-tweak-tool.desktop.in.h:1
+msgid "Libertine Tweak Tool"
+msgstr ""
+
+#: ../qml/StartOld.qml:144 ../qml/StartPage.qml:110 ../qml/Main2.qml:197
+msgid "Wipe"
+msgstr ""
+
+#: ../qml/StartOld.qml:161 ../qml/StartPage.qml:127 ../qml/Main2.qml:214
+msgid "Quit"
+msgstr ""
+
+#: ../qml/StartOld.qml:181 ../qml/StartPage.qml:147 ../qml/Main2.qml:234
+msgid "List"
+msgstr ""
+
+#: ../qml/StartOld.qml:201 ../qml/StartPage.qml:167 ../qml/Main2.qml:254
+msgid "Apply"
+msgstr ""
